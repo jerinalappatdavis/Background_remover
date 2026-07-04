@@ -1,0 +1,5 @@
+[project]
+name = "background-remover"
+version = "0.1.0"
+description = "Local bulk background remover web app"
+requires-python = ">=3.8,<3.10"
